@@ -1,0 +1,25 @@
+{
+    "author": "wvesteraas@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "testface",
+    "pebble": {
+        "displayName": "TestFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "706474ed-aad9-40bc-bbf5-ac99e0a708f5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
